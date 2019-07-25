@@ -39,7 +39,7 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 #FRÉQUENCE
 
-**5 publications parjour,5 jours par semaine.**  
+**5 publications par jour, 5 jours par semaine.**  
 
 2 publications le matin(actualité générale/actu alitéintra-promo)1 publication à midi(GIF/Image/Tutoriel)2 publications fin d'après-midi/soirée (GIF techniques)
 
