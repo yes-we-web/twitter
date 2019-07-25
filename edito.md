@@ -5,7 +5,7 @@
 
 #P R É S E N T A T I O N
 
-Il s'agit de tenir un compte Twitter de la promotiondurant les 7 mois de formation.  
+Il s'agit de tenir un compte Twitter de la promotion durant les 7 mois de formation.  
 
 Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
@@ -39,7 +39,7 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 #FRÉQUENCE
 
-**5 publications parjour,5 jours par semaine.**  
+**5 publications par jour, 5 jours par semaine.**  
 
 2 publications le matin(actualité générale/actu alitéintra-promo)1 publication à midi(GIF/Image/Tutoriel)2 publications fin d'après-midi/soirée (GIF techniques)
 
