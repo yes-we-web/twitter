@@ -3,12 +3,6 @@
 __COUCOU,__
 
 Moi c'est Anaïs, j'ai 27 ans. Enchantée !   
-Commençons par le commencement si tu veux bien. Note bien qu'aujourd'hui Mercredi 24 juillet 2019 à 18h43 (je n'ai pas les secondes on ne va pas chipoter hein !) je décide de renaître tel un phoenix (parce que c'est gracieux et classieux). 
-En vrai de vrai, je l'ai fait il ya plusieurs semaines en faisant un virage genre à 360.  
-
-Ni une, ni deux, j'ai décidé de rebattre mes cartes, et de me reconvertir profesionnellement : c'est donc du monde de la Documentation à celui du *__Développement web__* que celui-ci s'opère. Et j'ai bien envie de partager cela avec toi (oui, parce que tu me paraîs cool et chill derrière ton écran). Voilà ça c'est pour les présentations !  
-
-Bon si tu n'as pas encore tourné de l'oeil c'est que j'ai capté ton attention et peut-être même que je t'ai intrigué. C'est plutôt bon signe...  
 
 Aujourd'hui je me sens prête à rentrer sur le ring et à te partager mes projets de formation. Et le premier chapitre s'intitule : 
 
