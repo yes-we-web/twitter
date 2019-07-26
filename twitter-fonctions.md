@@ -2,7 +2,7 @@
 
 __COUCOU,__
 
-Moi c'est Anaïs, j'ai 27 ans. Enchantée !   
+Moi c'est Anaïs, j'ai 27 ans. Enchantée ! :smiley:   
 
 Aujourd'hui je me sens prête à rentrer sur le ring et à te partager mes projets de formation. Et le premier chapitre s'intitule : 
 
@@ -21,7 +21,7 @@ Je le sais, tu le sais, on le sait, le visuel joue un rôle très important dans
 
 - __retwitter__ les membres de ta communauté, ce qui te permettra de créer de l'intéraction, d'ouvrir au débat, ou de recevoir un petit coup de pouce en terme de visibilité.
 
-Oui, je sais je suis ton Huggy et les bons tuyaux...<3
+Oui, je sais je suis ton Huggy et les bons tuyaux... :heart:
 
 ## __Mais pourquoi et comment communiquer sur Twitter ?__
 
@@ -36,4 +36,4 @@ Aller pour résumer marquons le coup avec une citation :
 
 En gros que tu sois drôle, détendu, accessible, innovant, sérieux ou professionnel, ne te détourne pas de ton chemin jeune padawan ...
 
-#### Anaïs TCHICAYA
+#### Anaïs TCHICAYA :wave:
