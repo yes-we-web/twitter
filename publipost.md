@@ -17,7 +17,10 @@ Différents logiciels, plugin pour le publipost :
 4. CSV (Comma-separated values)
 
 
-Déf CSV : format texte ouvert représentant des données tabulaires sous forme de valeurs séparées par des virgules.
+# Déf CSV :
+
+
+Format texte ouvert représentant des données tabulaires sous forme de valeurs séparées par des virgules.
 
 
 
