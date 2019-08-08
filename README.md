@@ -8,9 +8,7 @@
 
 
 [Publipost](https://github.com/yes-we-web/twitter/blob/master/Documents/publipost.md)
-<br>
-<br>
-<br>
+
 
 
 **# P R É S E N T A T I O N**
@@ -18,6 +16,8 @@
 *Il s'agit de tenir un compte Twitter de la promotion durant les 7 mois de formation.*
 
 *Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.*
+
+
 **# LIGNE EDITORIALE**
 
     *La chaîne twitter faite par et pour les developpeursweb juniors.*
