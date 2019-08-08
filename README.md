@@ -13,7 +13,7 @@
 <br>
 
 
-#P R É S E N T A T I O N
+*_#P R É S E N T A T I O N_*
 
 Il s'agit de tenir un compte Twitter de la promotion durant les 7 mois de formation.
 
