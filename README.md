@@ -13,24 +13,24 @@
 
 **# P R É S E N T A T I O N**
 
-*Il s'agit de tenir un compte Twitter de la promotion durant les 7 mois de formation.*
+Il s'agit de tenir un compte Twitter de la promotion durant les 7 mois de formation.
 
-*Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.*
+Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 
 **# LIGNE EDITORIALE**
 
-    *La chaîne twitter faite par et pour les developpeursweb juniors.*
+    La chaîne twitter faite par et pour les developpeursweb juniors.
 
-    *Dans le respect de la bienséance, racisme, sexismeet toute autre forme de discrimination sont bannies.*
+    Dans le respect de la bienséance, racisme, sexismeet toute autre forme de discrimination sont bannies.
 
-    Les contenus seront orientés vers l'apprentissage,la découverte de nouvelles technologies et d'auteursd'articles avec parfois du contenu fun type gif ou jpg,encore une fois orienté vers le monde du    développement.
+    Les contenus seront orientés vers l'apprentissage,la découverte de nouvelles technologies et d'auteursd'articles avec parfois du contenu fun type gif ou jpg,encore une fois orienté vers le monde du  développement.
 
     Organiser des petits sondages/quizz pour animer lecompte avec la communauté.
 
     Le contenu des tweets devra être claire ,varié maispertinent et cohérent.
 
-    Notre priorité étant l'interactivité et l'aspectludique, ne pas faire de simples tweets sans image/gif,etc..
+    Notre priorité étant l'interactivité et l'aspectludique, ne pas faire de simples tweets sans image/gif,etc...
 
 **# cibles**
 
