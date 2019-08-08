@@ -24,7 +24,7 @@
 
     *Dans le respect de la bienséance, racisme, sexismeet toute autre forme de discrimination sont bannies.*
 
-    Les contenus seront orientés vers l'apprentissage,la découverte de nouvelles technologies et d'auteursd'articles avec parfois du contenu fun type gif ou jpg,encore une fois orienté vers le monde dudéveloppemen.
+    Les contenus seront orientés vers l'apprentissage,la découverte de nouvelles technologies et d'auteursd'articles avec parfois du contenu fun type gif ou jpg,encore une fois orienté vers le monde du    développement.
 
     Organiser des petits sondages/quizz pour animer lecompte avec la communauté.
 
