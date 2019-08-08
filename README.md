@@ -28,9 +28,9 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
     Organiser des petits sondages/quizz pour animer lecompte avec la communauté.
 
-    Le contenu des tweets devra être claire ,varié maispertinent et cohérent.
+    Le contenu des tweets devra être claire ,varié mais pertinent et cohérent.
 
-    Notre priorité étant l'interactivité et l'aspectludique, ne pas faire de simples tweets sans image/gif,etc...
+    Notre priorité étant l'interactivité et l'aspect ludique, ne pas faire de simples tweets sans image/gif,etc...
 
 **# cibles**
 
@@ -43,4 +43,4 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 5 publications par jour, 5 jours par semaine.
 
-2 publications le matin(actualité générale/actu alitéintra-promo)1 publication à midi(GIF/Image/Tutoriel)2 publications fin d'après-midi/soirée (GIF techniques).
+2 publications le matin( actualité générale/actualité intra-promo)1 publication à midi(GIF/Image/Tutoriel), 2 publications fin d'après-midi/soirée (GIF techniques).
