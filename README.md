@@ -46,3 +46,11 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 5 publications par jour, 5 jours par semaine.
 
 2 publications le matin( actualité générale/actualité intra-promo)1 publication à midi(GIF/Image/Tutoriel), 2 publications fin d'après-midi/soirée (GIF techniques).
+
+**# LANCEMENT DES TWEETS OFFICIELS**
+
+On a commencé cette semaine les tweets officiels sur le compte Yes We Web VT , dans le but de raconter ce que l'on fait en général , mais également tout ce qui pourrait toucher un dev web en général .
+
+Seul petit changement, on n'a pas fait 5 tweets le vendredi comme on est là qu'une demi-journée du coup nous en avons fait qu'un, car avec les ateliers du vendredi, s'est compliqué à gérer donc le vendredi un tweet sur l'atelier et voilà !
+
+On s'est mis d'accord qu'a chaque journée où il y a une présentation en fin de journée, on faisait un tweet pour cette présentation (dernier tweet de la journée généralement) , on regarder pour les # ce qu'il y a en tendances et on joue sur ça . Après, c'est libre court à son imagination pour les tweets , on essaie de rester en rapport au daily-objectives du jour. Bonne chance au prochain groupe Twitter.
