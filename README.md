@@ -46,10 +46,10 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 5 publications par jour, 5 jours par semaine.
 
-1 publications le matin (actualité générale/actualité intra-promo) à 9h00, 
-1 publication (Questions/réponses, sondage) à 11h00,  
-1 publications debut d'après-midi(Projet de la journée) à 13h00, 
-1 publication (citations) à 15h00 
+1 publications le matin (actualité générale/actualité intra-promo) à 9h00,   
+1 publication (Questions/réponses, sondage) à 11h00,    
+1 publications debut d'après-midi(Projet de la journée) à 13h00,   
+1 publication (citations) à 15h00,   
 et pour finir une publication (GIF/Image/Tutoriel/humour) à 17h00.
 
 
