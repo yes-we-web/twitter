@@ -49,8 +49,9 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 1 publications le matin (projet de la journée)  à 9h00,  
 1 publication (actualité générale/actualité intra-promo) à 11h00,    
 1 publications debut d'après-midi (GIF/Image/Tutoriel/humour) à 13h00,   
-1 publication (Questions/réponses, sondage) à 15h00,   
-et pour finir une publication (citations) à 17h00.
+1 publication (Questions/réponses, sondage) à 15h00,
+1 publication sur la présentation du jour entre 16h45 et 17H
+et pour finir une publication (citations) à 17h30.
 
 Et comme le vendredi, nous avons la tête à l'envers, tous les tweets de la journée, seront poster à l'envers, c'est à dire qu'on commence par la citation et on fini par le tweet humour, afin de bien commencer le week-end.  
 PS: il est possible de répéter les tweets, à condition de reformuler ces derniers, afin de ne pas faire répétitif, merci.
