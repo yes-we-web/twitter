@@ -3,10 +3,10 @@ Semaine
 | Horaires | Thèmes                    | Formes des tweets |
 |-----------|---------------------------|-------------------|
 | 9h00     | projet de la journée      | Format libre      |
-| 11h00    | actu général/ intra promo | Format libre      |
+| 11h00    | actu général/ intra promo | Image et texte    |
 | 13h00    | Humour                    | Gif/ Image        |
 | 15h00    | Question/ Reponse         | Sondage           |
-| 17h00    | Présentation du jour      | Photo + texte + # |
+| 17h00    | Présentation du jour      | Photo + texte + Mention |
 | 17h30    | Citation                  | Image et/ou texte |
 
 Samedi
