@@ -1,6 +1,6 @@
 Semaine
 
-| Horraires | Thèmes                    | Formes des tweets |
+| Horaires | Thèmes                    | Formes des tweets |
 |-----------|---------------------------|-------------------|
 | -9h00     | projet de la journée      |                   |
 | -11h00    | actu général/ intra promo |                   |
