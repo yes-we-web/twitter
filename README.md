@@ -44,17 +44,30 @@ Nous définirons ici la ligne éditoriale, ses objectifs et ses enjeux.
 
 **# FRÉQUENCE**
 
-5 publications par jour, 5 jours par semaine.
+6 publications du Lundi au Vendredi, et 3 publications le Samedi et Dimanche.
 
-1 publications le matin (projet de la journée)  à 9h00,  
-1 publication (actualité générale/actualité intra-promo) à 11h00,    
-1 publications debut d'après-midi (GIF/Image/Tutoriel/humour) à 13h00,   
-1 publication (Questions/réponses, sondage) à 15h00,
-1 publication sur la présentation du jour entre 16h45 et 17H
-et pour finir une publication (citations) à 17h30.
+- Du Lundi au Vendredi :
+    - 1 publication le matin (projet de la journée)  à 9h00,  
+    - 1 publication (actualité générale/actualité intra-promo) à 11h00,    
+    - 1 publication debut d'après-midi (GIF/Image/Tutoriel/Humour) à 13h00,   
+    - 1 publication (Questions/réponses, sondage) à 15h00,
+    - 1 publication sur la présentation du jour entre 16h45 et 17h,
+    - Et pour finir une publication (citations) à 17h30.
 
 Et comme le vendredi, nous avons la tête à l'envers, tous les tweets de la journée, seront poster à l'envers, c'est à dire qu'on commence par la citation et on fini par le tweet humour, afin de bien commencer le week-end.  
 PS: il est possible de répéter les tweets, à condition de reformuler ces derniers, afin de ne pas faire répétitif, merci.
+
+- Le Samedi :
+
+    - 1 publication le matin (Bien commencé sa journée) à 9h00,
+    - 1 publication (actualité générale/actualité intra-promo) à 13h,
+    - 1 publication (GIF/Image/Tutoriel/Humour) à 19h30.
+  
+- Le Dimanche : 
+
+    - 1 publication le matin (Bien commencé sa journée) à 9h00,
+    - 1 publication (actualité générale/actualité intra-promo) à 13h,
+    - 1 publication (Motivation pour le début de la nouvelle semaine) à 19h30.
 
 
 
