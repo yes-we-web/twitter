@@ -24,3 +24,13 @@ Dimanche
 | 9h00     | Citation                            | Image et/ou texte |
 | 13h00    | Actu général                        | Image et texte    |
 | 19h30    | Motivation pour la nouvelle semaine | Image et texte    |
+
+
+
+| Tweet d'avance  | citation                                                                                                                                                                                 | Gif | Memem |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|-------|
+|                 | Souvent la moitié de la réponse se trouve dans une question bien posée.                                                                                                                  |     |       |
+|                 | Mesurer la progression du développement d’un logiciel à l’aune de ses lignes de code  revient à mesurer la progression de la construction d’un avion à l’aune de son poids  — Bill Gates |     |       |
+|                 | les gens qui sont assez fous pour penser qu'ils peuvent changer le monde sont ceux qui le font. - Steve Jobs                                                                             |     |       |
+|                 | La qualité est plus importante que la quantité. -Steve Jobs                                                                                                                              |     |       |
+|                 | Tout le monde dans ce pays devrait apprendre à programmer un ordinateur, parce que ça vous apprend à penser. -Steve Jobs                                                                 |     |       |
